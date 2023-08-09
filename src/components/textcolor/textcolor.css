@@ -1,0 +1,12 @@
+.textColor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px;
+    background-color: #e4eeee;
+    border:solid #e4eeee 2px;
+    border-radius: 5px;
+}
