@@ -1,7 +1,7 @@
 import React from "react";
-import './button.css'
+import './index.css'
 
-const Button = ({ label }) => {
+const Index = ({ label }) => {
   const click =() => {
     alert (`a label desse botão é ${label}`)
   }
@@ -10,4 +10,4 @@ const Button = ({ label }) => {
   )
 }
 
- export default Button
+ export default Index

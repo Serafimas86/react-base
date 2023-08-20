@@ -1,17 +1,17 @@
 import React from "react"
-import './textcolor.css'
+import './index.css'
 
-const Textcolor = ({ color }) => {
+const Index= ({ color }) => {
    const styles = {
       color,
       textTransform: 'uppercase',
    };
   return (
     <>
-      <p className="textColor" style={styles}>
+      <p className="index" style={styles}>
          Na compra de 2 capas de celulares você ganhã uma pelicula gratuita!
       </p>
     </>
   )
 }
-export default Textcolor
+export default Index

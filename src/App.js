@@ -1,6 +1,6 @@
 import React from 'react';
-import Textcolor from './components/textcolor/textcolor';
-import Button from './components/button/button';
+import Textcolor from './components/StyledText';
+import Button from './components/AlertButton';
 import './App.css'
 function App () {
   return (
